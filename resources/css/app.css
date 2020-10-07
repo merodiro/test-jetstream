@@ -1,0 +1,7 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.turbolinks-progress-bar {
+    @apply h-1 bg-gray-800;
+}
